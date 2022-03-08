@@ -2,7 +2,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Chin2024) 
 
-#### My Personal & Original GIT <a href="https://github.com/chinmay-official">Chinmay-Official </a> <a href="https://github.com/chinmay-official"><img class="alignnone" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="" width="38"/></a>
+#### My Personal & Original GIT <a href="https://github.com/MrAnonymous09/">MrAnonymous09 </a> <a href="https://github.com/MrAnonymous09/"><img class="alignnone" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="" width="38"/></a>
 
 ## I'm a Gamer 🎮, a Programmer 💻, an Engineer 😅, and an Indian 😎!
 
