@@ -35,10 +35,10 @@
 <p><a href="https://twitter.com/Chinmay_Patil_"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="85" /></a> &nbsp <a href="https://www.instagram.com/chinmay_._patil/"><img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="" width="65" /></a> &nbsp &nbsp<a href="https://github.com/Chin2024/"><img class="alignnone" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="" width="65"/></a>&nbsp &nbsp<a href="https://www.factsprime.com/"><img class="alignnone" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" alt="" width="75"/></a></p>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chin2024&show_icons=true&locale=en&layout=compact" alt="bhawesh2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chin2024&show_icons=true&locale=en&layout=compact" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chin2024&" alt="bhawesh2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chin2024&"/></p>
 
 ## My Strike Rate🔥
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chin2024&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
